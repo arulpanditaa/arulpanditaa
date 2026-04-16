@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me:
+## 🚀 About Me
 
 🎓 MS in Data Science @ Johns Hopkins University  
 📍 Baltimore, MD  
@@ -35,7 +35,7 @@ I design production-grade data systems and machine learning models that convert 
 
 ---
 
-## 🧠 Tech Arsenal:
+## 🧠 Tech Arsenal
 
 <p align="center">
 
@@ -51,7 +51,7 @@ I design production-grade data systems and machine learning models that convert 
 
 
 
-## 🚀 Featured Projects and Research Papers:
+## 🚀 Featured Projects and Research Papers
 
 ### 🧠 NLP Sentiment Analysis Engine  
 ✔ 6,500+ Reddit posts across 16 universities  
