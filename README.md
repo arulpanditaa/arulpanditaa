@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arul Pandita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+Graduate+Student;Machine+Learning+Engineer;Data+Engineer+%7C+FinTech+Enthusiast;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+Graduate+Student;Building+Scalable+AI+Systems" />
 </p>
 
 <p align="center">
@@ -22,25 +22,24 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me:
 
 🎓 MS in Data Science @ Johns Hopkins University  
 📍 Baltimore, MD  
-💼 Data Scientist | Data Engineer | ML Engineer  
+💼 Data Scientist | Data Engineer | ML Engineer | Data Analyst | AI Engineer  
 
 I design production-grade data systems and machine learning models that convert raw data into high-impact insights.  
 
 🔹 Experience across Data Science + Data Engineering + NLP Research  
 🔹 Built systems processing 50K+ records/day  
-🔹 Strong focus on FinTech, AI systems, and decision intelligence  
 
 ---
 
-## 🧠 Tech Arsenal  
+## 🧠 Tech Arsenal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,js,java,pytorch,tensorflow,aws,docker,linux,bash,react,nodejs,nextjs,graphql,dotnet,git" />
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,aws,docker,linux,bash,react,nodejs,nextjs,graphql,dotnet,git" />
 
 </p>
 
@@ -50,24 +49,9 @@ I design production-grade data systems and machine learning models that convert 
 <img src="https://img.shields.io/badge/NLP-BERT%20%7C%20Transformers-green?style=flat-square"/>
 </p>
 
----
 
-## 💼 Experience Snapshot  
 
-🔹 Data Engineer — PowerGrid Corporation  
-→ Built AWS pipelines (EC2 + S3) with 99.9% uptime  
-→ Real-time anomaly detection systems  
-
-🔹 Data Scientist — NCR Voyix  
-→ ML models for churn & attrition (50K+ records/day)  
-→ Production pipelines with 90%+ test coverage  
-
-🔹 Data Analyst — Delhi Technological University  
-→ Increased engagement by 40% via analytics-driven redesign  
-
----
-
-## 🚀 Featured Work  
+## 🚀 Featured Projects and Research Papers:
 
 ### 🧠 NLP Sentiment Analysis Engine  
 ✔ 6,500+ Reddit posts across 16 universities  
