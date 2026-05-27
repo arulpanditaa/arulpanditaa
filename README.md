@@ -75,9 +75,16 @@ I design production-grade data systems and machine learning models that convert 
 
 ## 📊 GitHub Intelligence
 
-![Arul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arulpanditaa&show_icons=true&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-0082C9?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arulpanditaa&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## 🔥 Contribution Streak  
 
