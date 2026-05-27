@@ -73,14 +73,11 @@ I design production-grade data systems and machine learning models that convert 
 
 ---
 
-## 📊 GitHub Intelligence  
+## 📊 GitHub Intelligence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arulpanditaa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulpanditaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Arul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arulpanditaa&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arulpanditaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 Contribution Streak  
 
