@@ -66,7 +66,7 @@ I design production-grade data systems and machine learning models that convert 
 
 ---
 
-### 🎵 MusicIR — Graph-Based Music Recommendation System
+### 🎵 MusicIR: Graph-Based Music Recommendation System
 ✔ 154 artists · 114,000 Spotify tracks  
 ✔ TF-IDF + Graph hybrid model (92.6% Precision@5)  
 ✔ Live Streamlit app with real-time recommendations  
