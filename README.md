@@ -60,9 +60,10 @@ I design production-grade data systems and machine learning models that convert 
 
 ---
 
-### 🌍 Multilingual ML Research  
-✔ Transformer models (XLM-R, LaBSE)  
-✔ Published research on translation quality estimation  
+### ⚽ FootballLegendGNN: Graph-Based Legend Prediction System
+✔ 3,277 players · 207,676 teammate edges  
+✔ GAT + Stats hybrid model (ROC-AUC 0.97)  
+✔ 16 seasons of Premier League & La Liga data  
 
 ---
 
