@@ -75,8 +75,8 @@ I design production-grade data systems and machine learning models that convert 
 ---
 
 ### 🍎 Food Affordability ML: Predicting Obesity, Diabetes & Healthcare Costs
-✔ ~3,100 U.S. counties · 9 data sources (USDA, CDC, CMS, ACS)
-✔ Autoencoders + XGBoost + Double Machine Learning via EconML
+✔ ~3,100 U.S. counties · 9 data sources (USDA, CDC, CMS, ACS)  
+✔ Autoencoders + XGBoost + Double Machine Learning via EconML  
 ✔ $3.50/meal policy tipping point · $2.4B+ projected Medicare savings
 
 ---
