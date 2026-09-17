@@ -14,11 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your GitHub profile repository
       - name: Checkout profile repository
         uses: actions/checkout@v7
 
-      # Checkout the contribution chart generator
       - name: Checkout contribution chart generator
         uses: actions/checkout@v7
         with:
@@ -27,18 +25,37 @@ jobs:
           path: _deus
           persist-credentials: false
 
-      # Use Node.js 24
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
           node-version: "24"
           package-manager-cache: false
 
-      # Install chart generator dependencies
       - name: Install chart generator
         run: npm ci --ignore-scripts --prefix _deus
 
-      # Generate 30, 90 and 365 day contribution charts
+      # Make the two metadata lines the same white color as the title
+      - name: Make chart metadata white
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+
+          path = Path("_deus/modern-renderer.js")
+          text = path.read_text()
+
+          text = text.replace(
+              'y="58" fill="${theme.muted}"',
+              'y="58" fill="${theme.text}"'
+          )
+
+          text = text.replace(
+              'y="78" fill="${theme.muted}"',
+              'y="78" fill="${theme.text}"'
+          )
+
+          path.write_text(text)
+          PY
+
       - name: Generate contribution charts
         env:
           DEUS_COMMIT_CHART_GITHUB_TOKEN: ${{ secrets.DEUS_COMMIT_CHART_TOKEN || github.token }}
@@ -63,7 +80,6 @@ jobs:
 
           touch activity-dist/.nojekyll
 
-      # Publish generated SVGs to activity-assets branch
       - name: Publish generated charts
         env:
           TARGET_BRANCH: activity-assets
