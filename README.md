@@ -6,18 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=arulpanditaa">
-    <img src="https://komarev.com/ghpvc/?username=arulpanditaa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-  <a href="mailto:arul.pandita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arul-pandita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/arulpanditaa">
-    <img src="https://img.shields.io/github/followers/arulpanditaa?style=for-the-badge"/>
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=arulpanditaa"><img src="https://komarev.com/ghpvc/?username=arulpanditaa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></a>
+  <a href="mailto:arul.pandita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arul-pandita/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/arulpanditaa"><img src="https://img.shields.io/github/followers/arulpanditaa?style=for-the-badge"/></a>
 </p>
 
 ---
