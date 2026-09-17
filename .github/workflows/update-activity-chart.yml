@@ -14,27 +14,64 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout your GitHub profile repository
       - name: Checkout profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      - name: Generate daily contribution charts
-        uses: dturovskiy/deus-commit-chart@v1
+      # Checkout the contribution chart generator
+      - name: Checkout contribution chart generator
+        uses: actions/checkout@v7
         with:
-          username: arulpanditaa
-          token: ${{ secrets.DEUS_COMMIT_CHART_TOKEN || github.token }}
-          default-days: "90"
-          ranges: "30,90,365"
-          layout: spacious
-          output-dir: activity-dist
+          repository: dturovskiy/deus-commit-chart
+          ref: v1
+          path: _deus
+          persist-credentials: false
 
+      # Use Node.js 24
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          package-manager-cache: false
+
+      # Install chart generator dependencies
+      - name: Install chart generator
+        run: npm ci --ignore-scripts --prefix _deus
+
+      # Generate 30, 90 and 365 day contribution charts
+      - name: Generate contribution charts
+        env:
+          DEUS_COMMIT_CHART_GITHUB_TOKEN: ${{ secrets.DEUS_COMMIT_CHART_TOKEN || github.token }}
+        run: |
+          set -euo pipefail
+
+          mkdir -p activity-dist
+
+          for DAYS in 30 90 365
+          do
+            node _deus/generate-commit-chart.js \
+              --source github \
+              --username arulpanditaa \
+              --format svg \
+              --days "$DAYS" \
+              --theme github-compact \
+              --layout spacious \
+              --hide-border \
+              --title "GitHub Contribution Activity" \
+              --out "activity-dist/activity-${DAYS}d.svg"
+          done
+
+          touch activity-dist/.nojekyll
+
+      # Publish generated SVGs to activity-assets branch
       - name: Publish generated charts
         env:
           TARGET_BRANCH: activity-assets
         run: |
           set -euo pipefail
 
-          temp_dir="$(mktemp -d)"
-          cp -a activity-dist/. "$temp_dir/"
+          TEMP_DIR="$(mktemp -d)"
+          cp -a activity-dist/. "$TEMP_DIR/"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -43,8 +80,9 @@ jobs:
 
           find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 
-          cp -a "$temp_dir"/. .
+          cp -a "$TEMP_DIR"/. .
 
           git add -A
           git commit -m "Update GitHub contribution charts"
+
           git push --force origin "$TARGET_BRANCH"
