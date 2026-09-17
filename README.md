@@ -50,7 +50,7 @@ I design production-grade data systems and machine learning models that convert 
 ✔ ~85% accuracy using BERT / DistilBERT  
 ✔ End-to-end ML pipeline  
 
-<a href="https://github.com/arulpanditaa/Stem-university-sentiment-analysis"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/arulpanditaa/Stem-university-sentiment-analysis"><img src="https://img.shields.io/badge/-View%20GitHub%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -59,7 +59,7 @@ I design production-grade data systems and machine learning models that convert 
 ✔ GAT + Stats hybrid model (ROC-AUC 0.97)  
 ✔ 16 seasons of Premier League & La Liga data  
 
-<a href="https://github.com/arulpanditaa/football-legend-gnn"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/arulpanditaa/football-legend-gnn"><img src="https://img.shields.io/badge/-View%20GitHub%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -68,7 +68,7 @@ I design production-grade data systems and machine learning models that convert 
 ✔ TF-IDF + Graph hybrid model (92.6% Precision@5)  
 ✔ Live Streamlit app with real-time recommendations  
 
-<a href="https://github.com/arulpanditaa/MusicIR-Music-Recommendation-System-"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/arulpanditaa/MusicIR-Music-Recommendation-System-"><img src="https://img.shields.io/badge/-View%20GitHub%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -77,7 +77,7 @@ I design production-grade data systems and machine learning models that convert 
 ✔ Autoencoders + XGBoost + Double Machine Learning via EconML  
 ✔ $3.50/meal policy tipping point & $2.4B+ projected Medicare savings  
 
-<a href="https://github.com/arulpanditaa/Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/arulpanditaa/Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US"><img src="https://img.shields.io/badge/-View%20GitHub%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -86,7 +86,7 @@ I design production-grade data systems and machine learning models that convert 
 ✔ LaBSE + XLM-RoBERTa multilingual representations  
 ✔ English–German · Romanian–English · Sinhala–English  
 
-<a href="https://github.com/arulpanditaa/A-Multilingual-Approach-to-Reference-Free-Quality-Estimation-in-Machine-Translation"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/arulpanditaa/A-Multilingual-Approach-to-Reference-Free-Quality-Estimation-in-Machine-Translation"><img src="https://img.shields.io/badge/-View%20GitHub%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
