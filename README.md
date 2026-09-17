@@ -87,9 +87,31 @@ I design production-grade data systems and machine learning models that convert 
 ---
 
 ## 📊 GitHub Intelligence  
+
 <p align="center">
   <img src="./profile/github-stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
+</p>
+
+### 📈 Daily Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-90d.svg"
+    alt="Daily GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-30d.svg">30 Days</a>
+  •
+  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-90d.svg">90 Days</a>
+  •
+  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-365d.svg">365 Days</a>
+</p>
+
+<p align="center">
+  <sub>Contribution data updated automatically via GitHub Actions</sub>
 </p>
 
 ---
@@ -97,7 +119,7 @@ I design production-grade data systems and machine learning models that convert 
 ## 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arulpanditaa&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=arulpanditaa&theme=tokyonight&hide_border=true&hide_total_contributions=true"/>
 </p>
 
 ---
