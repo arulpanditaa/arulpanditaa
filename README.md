@@ -84,27 +84,46 @@ I design production-grade data systems and machine learning models that convert 
   <img src="./profile/github-stats.svg" height="180"/>
 </p>
 
-### 📈 Daily Contribution Activity
+## 📈 Daily Contribution Activity
+
+<details open>
+<summary><b>30 Days</b></summary>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-90d.svg"
-    alt="Daily GitHub Contribution Activity"
+    src="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-30d.svg"
+    alt="30 Day GitHub Contribution Activity"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-30d.svg">30 Days</a>
-  •
-  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-90d.svg">90 Days</a>
-  •
-  <a href="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-365d.svg">365 Days</a>
-</p>
+</details>
+
+<details>
+<summary><b>90 Days</b></summary>
 
 <p align="center">
-  <sub>Contribution data updated automatically via GitHub Actions</sub>
+  <img
+    src="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-90d.svg"
+    alt="90 Day GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
+
+</details>
+
+<details>
+<summary><b>365 Days</b></summary>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arulpanditaa/arulpanditaa/activity-assets/activity-365d.svg"
+    alt="365 Day GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+</details>
 
 ---
 
