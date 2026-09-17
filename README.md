@@ -41,40 +41,52 @@ I design production-grade data systems and machine learning models that convert 
 <img src="https://img.shields.io/badge/NLP-BERT%20%7C%20Transformers-green?style=flat-square"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects and Research Papers
 
-### 🧠 [NLP Sentiment Analysis Engine](https://github.com/arulpanditaa/Stem-university-sentiment-analysis)  
+### 🧠 NLP Sentiment Analysis Engine  
 ✔ 5,735 Reddit posts across 16 universities  
 ✔ ~85% accuracy using BERT / DistilBERT  
 ✔ End-to-end ML pipeline  
 
+<a href="https://github.com/arulpanditaa/Stem-university-sentiment-analysis"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 ---
 
-### ⚽ [Football_LegendGNN: Graph-Based Legend Prediction System](https://github.com/arulpanditaa/football-legend-gnn)
+### ⚽ Football_LegendGNN: Graph-Based Legend Prediction System
 ✔ 3,277 players · 207,676 teammate edges  
 ✔ GAT + Stats hybrid model (ROC-AUC 0.97)  
 ✔ 16 seasons of Premier League & La Liga data  
 
+<a href="https://github.com/arulpanditaa/football-legend-gnn"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 ---
 
-### 🎵 [MusicIR: Graph-Based Music Recommendation System](https://github.com/arulpanditaa/MusicIR-Music-Recommendation-System-)
+### 🎵 MusicIR: Graph-Based Music Recommendation System
 ✔ 154 artists · 114,000 Spotify tracks   
 ✔ TF-IDF + Graph hybrid model (92.6% Precision@5)  
 ✔ Live Streamlit app with real-time recommendations  
 
+<a href="https://github.com/arulpanditaa/MusicIR-Music-Recommendation-System-"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 ---
 
-### 🍎 [Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US](https://github.com/arulpanditaa/Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US)  
+### 🍎 Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US  
 ✔ ~3,100 U.S. counties · 9 data sources (USDA, CDC, CMS, ACS)  
 ✔ Autoencoders + XGBoost + Double Machine Learning via EconML  
 ✔ $3.50/meal policy tipping point & $2.4B+ projected Medicare savings  
 
+<a href="https://github.com/arulpanditaa/Learning-Food-Affordability-Representations-to-Predict-Obesity-Diabetes-and-Healthcare-Costs-in-US"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 ---
 
-### 🌍 [A Multilingual Approach to Reference-Free Quality Estimation in Machine Translation](https://github.com/arulpanditaa/A-Multilingual-Approach-to-Reference-Free-Quality-Estimation-in-Machine-Translation)  
+### 🌍 A Multilingual Approach to Reference-Free Quality Estimation in Machine Translation  
 ✔ Reference-free multilingual machine translation quality estimation  
 ✔ LaBSE + XLM-RoBERTa multilingual representations  
 ✔ English–German · Romanian–English · Sinhala–English  
+
+<a href="https://github.com/arulpanditaa/A-Multilingual-Approach-to-Reference-Free-Quality-Estimation-in-Machine-Translation"><img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
