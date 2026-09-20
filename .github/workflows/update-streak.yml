@@ -1,0 +1,39 @@
+name: Update Contribution Streak
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=arulpanditaa&theme=tokyonight&hide_total_contributions=true&disable_animations=true&timezone=America/New_York
+          path: profile/streak.svg
+
+      - name: Commit updated streak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --staged --quiet; then
+            echo "No streak changes."
+            exit 0
+          fi
+
+          git commit -m "Update contribution streak"
+          git push
