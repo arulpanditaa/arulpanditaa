@@ -142,7 +142,7 @@ I design production-grade data systems and machine learning models that convert 
 ## 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arulpanditaa&theme=tokyonight&hide_border=true&hide_total_contributions=true"/>
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
